@@ -22,7 +22,8 @@ permalink: /
     - 教員室: 4 階 416 号室
 - 研究に関連する記事
     - [基数制約つき平均・分散モデルに対する切除平面法](https://orsj.org/wp-content/corsj/or67-7/or67_7_360.pdf)
-    - [半正定値最適化問題に対する切除平面法と混合整数半正定値最適化問題への拡張](https://orsj.org/wp-content/corsj/or65-12/or65_12_656.pdf)
+    - [半正定値最適化問題に対する切除平面法と混合整数半正定値最適化問題への拡張](https://orsj.org/wp-content/corsj/or65-12/or65_12_656.pdf)  
+
 <br>
 ## 研究室に興味のある学生へ
 

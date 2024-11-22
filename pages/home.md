@@ -34,5 +34,5 @@ permalink: /
 {% for item in site.posts limit:site.posts_on_home %}
 {% include card.html %}
 {% endfor %}
-
+<br>
 過去のお知らせは[こちら](/archive/)

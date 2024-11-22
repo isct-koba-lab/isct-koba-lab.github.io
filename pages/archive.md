@@ -5,4 +5,4 @@ description: Past News
 permalink: /archive/
 ---
 
-# 過去のお知らせ
+## 過去のお知らせ

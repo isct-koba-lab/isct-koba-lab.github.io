@@ -1,0 +1,10 @@
+# Project team members listed below will appear on the /team page
+
+- name: 小林 健
+  role: 准教授 # Will appear next to name
+  image: https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=fyMWmOMAAAAJ&citpid=7 # Can be external link
+  description: いまは 1 人しかいません. 
+  orcid: 0000-0002-6609-7488
+  googlescholar: fyMWmOMAAAAJ
+  github: KenKoba2119
+  email: kobayashi.k.ar[at-mark]m.titech.ac.jp

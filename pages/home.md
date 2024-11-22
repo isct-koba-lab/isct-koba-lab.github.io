@@ -24,16 +24,13 @@ permalink: /
     - [基数制約つき平均・分散モデルに対する切除平面法](https://orsj.org/wp-content/corsj/or67-7/or67_7_360.pdf)
     - [半正定値最適化問題に対する切除平面法と混合整数半正定値最適化問題への拡張](https://orsj.org/wp-content/corsj/or65-12/or65_12_656.pdf)  
 
-<br>
 ## 研究室に興味のある学生へ
 
 - **経営工学系に所属する学生へ**
   - 学士特定課題研究に関する学生の受け入れは, 2025 年度より開始する予定です. 研究内容について興味がある学生は, 小林までメールや学内の Slack でぜひ連絡してください. 
 
-<br>
 ## お知らせ
 
 {% for item in site.posts limit:site.posts_on_home %}
 {% include card.html %}
 {% endfor %}
-<br>

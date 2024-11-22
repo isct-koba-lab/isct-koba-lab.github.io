@@ -5,8 +5,11 @@
 columns:
   - description:
     links:
+    - text: 小林研究室
+      href: https://isct-koba-lab.github.io/
+      new_window: true
     - text: 中田研究室
-      href: http://www.me.titech.ac.jp/~nakatalab/index.html
+      href: https://www.nakatalab.iee.e.titech.ac.jp/
       new_window: true
     - text: 工学院 経営工学系
       href: https://educ.titech.ac.jp/iee/

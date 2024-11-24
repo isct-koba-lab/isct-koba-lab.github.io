@@ -1,6 +1,6 @@
 ---
-title: "Publications / 研究成果"
-permalink: publications.html
+title: "研究成果"
+permalink: /publications/
 toc: true
 ---
 

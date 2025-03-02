@@ -7,7 +7,7 @@ toc: true
 ## 研究成果
 
 
-### **査読付き論文･プロシーディングス**
+### **査読付き学術誌論文･国際会議録論文**
 1. A. Inoue, B. Zhu, K. Mizutani, K. Kobayashi, T. Yasuda, A. Wellner, C. C. Liu, and T. Kitaguch:  
 **Prediction of single-mutation effects for fluorescent immunosensor engineering with an end-to-end trained protein language model**.  
 JACS Au, (2025), DOI: 10.1021/jacsau.4c01189.  
@@ -158,7 +158,7 @@ arXiv preprint, arXiv:2104.04679 (2021).
 {: reversed="reversed"}
 
 
-### **査読付きワークショップ**
+### **査読付きワークショップ論文**
 1. S. Nagai, R. Inaba, R. Oishi, S. Aikawa, Y. Mibuchi, H. Moriyama, K. Kobayashi, and K. Nakata:  
 **Zero-shot demand forecasting for products with limited sales periods**.  
 The 7th Workshop on Big Data for Economic and Business Forecasting, Workshop at IEEE International Conference on Big Data 2024, (2024).  

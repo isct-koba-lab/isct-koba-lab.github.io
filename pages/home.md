@@ -20,7 +20,8 @@ permalink: /
 - 所在地
   - 〒152-8552  東京都目黒区大岡山2-12-1 東京科学大学 大岡山キャンパス 西 9 号館 ([Google Map](https://maps.app.goo.gl/YozBDce4D6CBm4dk8))
     - 教員室: 4 階 416 号室
-- 関連する記事
+- 関連する解説記事
+    - [機械学習の反実仮想説明と混合整数最適化](https://orsj.org/wp-content/corsj/or69-3/or69_3_143.pdf)
     - [基数制約つき平均・分散モデルに対する切除平面法](https://orsj.org/wp-content/corsj/or67-7/or67_7_360.pdf)
     - [半正定値最適化問題に対する切除平面法と混合整数半正定値最適化問題への拡張](https://orsj.org/wp-content/corsj/or65-12/or65_12_656.pdf)  
 

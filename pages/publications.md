@@ -8,7 +8,7 @@ toc: true
 
 
 ### **査読付き学術誌論文･国際会議録論文**
-1. A. Inoue, B. Zhu, K. Mizutani, K. Kobayashi, T. Yasuda, A. Wellner, C. C. Liu, and T. Kitaguch:  
+1. A. Inoue, B. Zhu, K. Mizutani, K. Kobayashi, T. Yasuda, A. Wellner, C. C. Liu, and T. Kitaguchi:  
 **Prediction of single-mutation effects for fluorescent immunosensor engineering with an end-to-end trained protein language model**.  
 JACS Au, (2025), DOI: 10.1021/jacsau.4c01189.  
 <span class="badge bg-secondary"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.1021/jacsau.4c01189" >DOI </a> </span>

@@ -7,11 +7,11 @@ permalink: /
 <script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax:{inlineMath:[['\$','\$'],['\\(','\\)']],processEscapes:true},CommonHTML: {matchFontHeight:false}});</script>
 <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
-小林研究室のウェブページへようこそ. 小林研は東京科学大学 工学院 経営工学系に所属し, オペレーションズ・リサーチや数理最適化, 機械学習などの研究を行っています. 
+小林研究室のウェブページへようこそ. 小林研は東京科学大学 工学院 経営工学系に所属し, オペレーションズ・リサーチや数理最適化, 機械学習などの研究を行っています.   
 
 このページでは小林研の研究内容や最新のお知らせを掲載しています. まだ準備中の部分も多いですが, 順次更新していく予定です.
 
-最終更新日: {{ site.time | date: "%Y 年 %m 月 %d 日" }}
+Last Updated: {{ site.time | date: "%Y 年 %m 月 %d 日" }}
 <br>
 ## 研究室基本情報
 - 研究分野: オペレーションズ・リサーチ, 数理最適化, 機械学習

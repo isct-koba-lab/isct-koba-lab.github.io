@@ -8,6 +8,9 @@ toc: true
 
 
 ### **査読付き学術誌論文･国際会議録論文**
+1. A. Sannai, Y. Hikima, K.Kobayashi, A.Tanaka, and N. Hamada:  
+**Bézier flow: a surface-wise gradient descent method for multi-objective optimization**.  
+Transactions on Machine Learning Research, (in press).
 1. A. Inoue, B. Zhu, K. Mizutani, K. Kobayashi, T. Yasuda, A. Wellner, C. C. Liu, and T. Kitaguchi:  
 **Prediction of single-mutation effects for fluorescent immunosensor engineering with an end-to-end trained protein language model**.  
 JACS Au, (2025), DOI: 10.1021/jacsau.4c01189.  

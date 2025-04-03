@@ -2,8 +2,8 @@
 
 - name: 小林 健
   role: 准教授 # Will appear next to name
-  image: https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=fyMWmOMAAAAJ&citpid=7 # Can be external link
-  description: 年度途中に発足したため, 2024年度現在は教員の私 1 人しかいません. 2024 年度は[中田研](https://www.nakatalab.iee.e.titech.ac.jp/)のメンバーと合同で研究に取り組んでいます. 
+  image: https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=fyMWmOMAAAAJ # Can be external link
+  description:  旧東工大の経営工学専攻を修士で修了したのち, 数年間の企業勤務を経て 2022 年から本学で働いています. 趣味は雑多で浅く広くという感じですが, 最近は銀河英雄伝説の小説･アニメにはまりました. 研究内容の詳細は[個人のウェブサイト](https://kenkoba2119.github.io/)を参照してください.
   orcid: 0000-0002-6609-7488
   googlescholar: fyMWmOMAAAAJ
   github: KenKoba2119

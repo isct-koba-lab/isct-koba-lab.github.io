@@ -1,6 +1,6 @@
 # Project team members listed below will appear on the /team page
 
-- name: 小林 健
+- name: 小林健
   role: 准教授 # Will appear next to name
   image: https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=fyMWmOMAAAAJ # Can be external link
   description:  旧東工大の経営工学専攻で修士号を取得したのち, 数年間の企業勤務と博士号取得を経て 2022 年から本学で働いています. 趣味は雑多で広く浅くという感じですが, 最近は銀河英雄伝説の小説･アニメにはまりました. 研究内容の詳細は[個人のウェブサイト](https://kenkoba2119.github.io/)を参照してください.
@@ -8,5 +8,9 @@
   googlescholar: fyMWmOMAAAAJ
   github: KenKoba2119
   email: kobayashi.k[at-mark]iee.eng.isct.ac.jp
-- name: テスト
+- name: ニクライ龍平ダニエル
+  role: B4
+- name: 吉村光瑛
+  role: B4
+- name: 渡辺隼人
   role: B4

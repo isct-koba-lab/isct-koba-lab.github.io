@@ -17,9 +17,11 @@ Last Updated: {{ site.time | date: "%Y 年 %m 月 %d 日" }}
 - 研究分野: オペレーションズ・リサーチ, 数理最適化, 機械学習
 - 構成員
   - 教員: 小林 健 ([個人のページ](https://kenkoba2119.github.io/))
+  - 学部生: 3 名
 - 所在地
   - 〒152-8552  東京都目黒区大岡山2-12-1 東京科学大学 大岡山キャンパス 西 9 号館 ([Google Map](https://maps.app.goo.gl/YozBDce4D6CBm4dk8))
     - 教員室: 4 階 416 号室
+    - 学生室: 5 階 526 号室
 - 関連する解説記事
     - [機械学習の反実仮想説明と混合整数最適化](https://orsj.org/wp-content/corsj/or69-3/or69_3_143.pdf)
     - [基数制約つき平均・分散モデルに対する切除平面法](https://orsj.org/wp-content/corsj/or67-7/or67_7_360.pdf)

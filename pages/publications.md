@@ -8,6 +8,9 @@ toc: true
 
 
 ### **査読付き学術誌論文･国際会議録論文**
+1. K. Kanamori, K. Kobayashi, S. Hara, and T. Takagi:  
+**Algorithmic recourse for long-term improvement**.  
+Proceedings of the 42nd International Conference on Machine Learning, (in press).
 1. A. Sannai, Y. Hikima, K.Kobayashi, A.Tanaka, and N. Hamada:  
 **Bézier flow: a surface-wise gradient descent method for multi-objective optimization**.  
 Transactions on Machine Learning Research, (in press).
@@ -35,7 +38,7 @@ Proceedings of the 21st Pacific Rim International Conference on Artificial Intel
 **Distribution-aligned sequential counterfactual explanation with local outlier factor**.    
 Proceedings of the 21st Pacific Rim International Conference on Artificial Intelligence, (2024), 243--256.   
 <span class="badge bg-secondary"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.1007/978-981-96-0116-5_20" >DOI </a> </span>  
-1. K. Kanamori, T. Takuya, K. Kobayashi, and Y. Ike:   
+1. K. Kanamori, T. Takagi, K. Kobayashi, and Y. Ike:   
 **Learning decision trees and forests with algorithmic recourse**.  
 Proceedings of the 41st International Conference on Machine Learning, PMLR 235 (2024), 22936--22962.    
 <span class="badge bg-success"> <a target="blank"  style="color:white;text-decoration:none" href="https://raw.githubusercontent.com/mlresearch/v235/main/assets/kanamori24a/kanamori24a.pdf">PDF </a> </span> 
@@ -71,11 +74,11 @@ Proceedings of ACM Genetic and Evolutionary Computation Conference, (2022), 601-
 <span class="badge bg-secondary"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.1145/3512290.3528778">DOI </a> </span>
 &nbsp;
 <span class="badge bg-info"> <a target="blank"  style="color:white;text-decoration:none" href="https://arxiv.org/abs/2203.15292" >Preprint </a> </span>
-1. K. Kanamori, T. Takuya, K. Kobayashi, and Y. Ike:  
+1. K. Kanamori, T. Takagi, K. Kobayashi, and Y. Ike:  
 **Counterfactual explanation trees: transparent and consistent actionable recourse with decision trees**.  
 Proceedings of the 25th International Conference on Artificial Intelligence and Statistics, PMLR 151 (2022), 1846--1870.<br>
 <span class="badge bg-success"> <a target="blank"  style="color:white;text-decoration:none" href="https://proceedings.mlr.press/v151/kanamori22a/kanamori22a.pdf">PDF </a> </span>
-1. K. Kanamori, T. Takuya, K. Kobayashi, and H. Arimura:  
+1. K. Kanamori, T. Takagi, K. Kobayashi, and H. Arimura:  
 **Distribution-aware counterfactual explanation by mixed-integer linear optimization**.  
 Transactions of the Japanese Society for Artificial Intelligence, 36 (2021), C-L44_1--12.  
 <span class="badge bg-secondary"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.1527/tjsai.36-6_C-L44" >DOI </a> </span>
@@ -85,7 +88,7 @@ Journal of Global Optimization, 81 (2021), 493--528.
 <span class="badge bg-secondary"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.1007/s10898-021-01048-5" >DOI </a> </span>
 &nbsp;
 <span class="badge bg-info"> <a target="blank"  style="color:white;text-decoration:none" href="https://arxiv.org/abs/2005.12797" >Preprint </a> </span>
-1. K. Kanamori, T. Takuya, K. Kobayashi, Y. Ike, K. Uemura, and H. Arimura:  
+1. K. Kanamori, T. Takagi, K. Kobayashi, Y. Ike, K. Uemura, and H. Arimura:  
 **Ordered counterfactual explanation by mixed-integer linear optimization**.  
 Proceedings of the 35th AAAI Conference on Artificial Intelligence, 35 (2021), 11564--11574.<br>
 <span class="badge bg-secondary"> <a target="blank"  style="color:white;text-decoration:none" href="http://dx.doi.org/10.1609/aaai.v35i13.17376" >DOI </a> </span>
@@ -97,7 +100,7 @@ PLOS ONE, 15 (2020), e0242099.
 <span class="badge bg-secondary"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.1371/journal.pone.0242099">DOI </a> </span>
 &nbsp;
 <span class="badge bg-info"> <a target="blank"  style="color:white;text-decoration:none" href="https://arxiv.org/abs/2007.15159" >Preprint </a> </span>
-1. K. Kanamori, T. Takuya, K. Kobayashi, and H. Arimura:  
+1. K. Kanamori, T. Takagi, K. Kobayashi, and H. Arimura:  
 **DACE: Distribution-aware counterfactual explanation by mixed-integer linear optimization**.  
 Proceedings of the 29th International Joint Conference on Artificial Intelligence, 29 (2020), 2855--2862.<br>
  <span class="badge bg-secondary"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.24963/ijcai.2020/395">DOI </a> </span>
@@ -149,7 +152,7 @@ Journal of the Operations Research Society of Japan, 60 (2017), 321--336.
 1. H. Kiyohara, R. Kishimoto, K. Kawakami, K. Kobayashi, K. Nakata, and Y. Saito:  
 **SCOPE-RL: a Python library for offline reinforcement learning and off-policy evaluation**.  
 arXiv preprint,  arXiv:2311.18206 (2023). 
-1. K. Kanamori, T. Takuya, K. Kobayashi, and Y. Ike:  
+1. K. Kanamori, T. Takagi, K. Kobayashi, and Y. Ike:  
 **Counterfactual explanation with missing values**.  
 arXiv preprint, arXiv:2304.14606 (2023).
 1. A. Sannai, Y. Hikima, K.Kobayashi, A.Tanaka, and N. Hamada:  

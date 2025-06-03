@@ -41,8 +41,8 @@ toc: true
 
 機械学習の技術が目覚ましく進展したことに伴って, 機械学習を用いた予測モデルは我々の生活の様々な場面で利用されるようになりました. しかし, 現在利用される予測モデルは入出力関係が複雑で, 予測のプロセスや出力の根拠を直観的に解釈することはしばしば困難です. このような背景から, 複雑な予測モデルは我々の生活に予期せぬリスクをもたらすのではないか? という社会的な不安が高まっています. 
 
-反実仮想説明 (最近ではアルゴリズム的償還ともいう) とは, このような予測モデルの解釈性を高めるための手法の一つです. 
-反実仮想説明では, ｢入力をどのように変化させたら望ましい予測結果が得られるのか?｣という問題を考え, 望ましい予測結果を得るために必要な入力の変化量 (摂動) を求めます. 反実仮想説明で求める摂動は望ましい予測結果を得るために必要な行動として解釈できるため, 予測結果に対する建設的な付加情報とみなせます.  これまで小林は反実仮想説明の研究として, ユーザにとって実現可能性の高い摂動を求める研究などに取り組みました:
+反実仮想説明 (最近ではアルゴリズム的償還ともいう) とは, 予測モデルの解釈性を高めるための手法の一つです. 
+反実仮想説明では, ｢入力をどのように変化させたら望ましい予測結果が得られるか?｣という問題を考え, 望ましい予測結果を得るために必要な入力の変化量 (摂動) を求めます. 反実仮想説明で求める摂動は望ましい予測結果を得るために必要な行動として解釈できるため, 予測結果に対する建設的な付加情報とみなせます.  これまで小林は反実仮想説明の研究として, ユーザにとって実現性の高い摂動を求める研究などに取り組みました:
 
 - S. Yamao, K. Kobayashi, K. Kanamori, T. Takagi, Y. Ike, and K. Nakata: Distribution-aligned sequential counterfactual explanation with local outlier factor. Proceedings of the 21st Pacific Rim International Conference on Artificial Intelligence, (2024), 243–256.
 - K. Kanamori, T. Takagi, K. Kobayashi, and H. Arimura: DACE: Distribution-aware counterfactual explanation by mixed-integer linear optimization. Proceedings of the 29th International Joint Conference on Artificial Intelligence, 29 (2020), 2855–2862.

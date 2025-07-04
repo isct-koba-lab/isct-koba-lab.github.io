@@ -69,7 +69,6 @@ toc: true
       - 森雅夫, 松井知己著, ｢オペレーションズ・リサーチ｣, 朝倉書店, 2004年
       - 田村明久, 村松正和著,「最適化法」, 共立出版, 2002年 
       - IEE.A202 「経営･経済数学」[講義資料](https://drive.google.com/drive/folders/14LUq0LcRQp0B7ZfuQsuW7fu7k9fx6WVI) (塩浦先生作成)
-      - IEE.A206 「オペレーションズ･リサーチ基礎」[講義資料](http://www.shioura-lab.iee.e.titech.ac.jp/shioura/teaching/orf24/index.html) (塩浦先生作成)
       - IEE.B337 「経営･経済のためのデータ分析」 [講義資料](https://www.nakatalab.iee.e.titech.ac.jp/text/nakata.html) (中田先生作成)
   - プログラミングに関して特別に必要な前提知識はありません. 最近は Python のほか Julia を使うことがありますが, いずれの言語も必要に応じて自習すれば問題ありません. 
 - 研究テーマはどのように決めますか?

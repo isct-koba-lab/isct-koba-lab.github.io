@@ -18,7 +18,6 @@ Last Updated: {{ site.time | date: "%Y 年 %m 月 %d 日" }}
 - 構成員
   - 教員: 小林 健 ([個人のページ](https://kenkoba2119.github.io/))
   - 学部生: 3 名
-  - 留学生: 1 名
 - 所在地
   - 〒152-8552  東京都目黒区大岡山2-12-1 東京科学大学 大岡山キャンパス 西 9 号館 ([Google Map](https://maps.app.goo.gl/YozBDce4D6CBm4dk8))
     - 教員室: 4 階 416 号室

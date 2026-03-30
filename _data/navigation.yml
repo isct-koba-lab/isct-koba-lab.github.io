@@ -7,11 +7,13 @@
 - text: Members
   href: /members/
 - text: Achievements
-  menu: # Dropdown menu (one level deep only)
-  - text: Theses 
-    href: /theses/
-  - text: Publications
-    href: /publications/
+  href: /achievements/
+#- text: Achievements
+#  menu: # Dropdown menu (one level deep only)
+#  - text: Theses 
+#    href: /theses/
+#  - text: Publications
+#    href: /publications/
 - text: For Students
   href: /for-students/
 - text: Past News

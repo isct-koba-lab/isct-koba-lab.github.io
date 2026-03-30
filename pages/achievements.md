@@ -1,6 +1,6 @@
 ---
 title: "研究成果"
-permalink: /Achievements/
+permalink: /achievements/
 toc: true
 ---
 

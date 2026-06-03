@@ -92,7 +92,7 @@ toc: true
       - IEE.A202 「経営･経済数学」[講義資料](https://drive.google.com/drive/folders/14LUq0LcRQp0B7ZfuQsuW7fu7k9fx6WVI) (塩浦先生作成)
       - IEE.A203 「数理工学」 [講義資料](https://kenkoba2119.github.io/teaching/iee-a203/) (小林作成)
       - IEE.B337 「経営･経済のためのデータ分析」 [講義資料](https://www.nakatalab.iee.e.titech.ac.jp/text/nakata.html) (中田先生作成)
-<br>
+<br><br>
 - プログラミングに関して特別に必要な前提知識はありません. 最近は Python のほか Julia を使うことがありますが, いずれの言語も研究室配属後に必要に応じて学習すれば問題ありません.
 
 **研究テーマはどのように決めますか?**

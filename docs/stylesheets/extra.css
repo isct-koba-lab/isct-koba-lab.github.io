@@ -1,0 +1,161 @@
+/* 本文全体の行間を調整する */
+.md-typeset {
+  line-height: 1.7; /* デフォルトより少し広め（1.6〜1.8が読みやすいです） */
+}
+
+/* 段落（pタグ）ごとの下の余白を調整する場合 */
+.md-typeset p {
+  margin-bottom: 1.2em;
+}
+
+.md-typeset table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Markdownの見出しの色を上書きする */
+:root {
+  --md-default-fg-color--bold: #1e3d59; /* 👈 ここに好きな見出しの色（HEXコードなど） */
+}
+
+
+/* ヘッダーのカラーモード（ダークモード）切り替えボタンを非表示にする */
+.md-header__option {
+  display: none !important;
+}
+/* 1カラムのカードリスト全体のコンテナ */
+.card-column-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;               /* 0.2remだと詰まりすぎるため、適度な隙間（約13px）に調整 */
+  margin: 0.2rem 0;
+}
+
+/* カード単体のデザイン */
+.card-column-1 > div,
+.card-column-1 > a {
+  display: block;
+  padding: 1rem 1.2rem !important; /* 重複していた指定をここに統合し、コンパクトに固定 */
+  background-color: var(--zs-card-background, #ffffff);
+  border: 1px solid var(--zs-border-color, #e0e0e0);
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+  text-decoration: none !important;
+  color: inherit !important;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* カーソルを乗せたとき（ホバー時）のちょっと浮き上がるエフェクト */
+.card-column-1 > div:hover,
+.card-column-1 > a:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+/* カード内のタイトルサイズ（h3、および .card-title） */
+.card-column-1 h3, 
+.card-column-1 strong.card-title {
+  display: block;
+  font-size: 0.8rem !important;      /* 本文と同じスマートなサイズに固定 */
+  font-weight: 700 !important;       /* 太字にしてタイトルらしさを強調 */
+  margin-top: 0 !important;
+  margin-bottom: 0.2rem !important;  /* 本文との隙間をキュッと詰める（後の指定と統合） */
+  color: var(--zs-heading-color, #1a1a1a);
+}
+
+/* カードの中にある文章（pタグ）の上下余白 */
+.card-column-1 p {
+  margin-top: 0.1rem !important;
+  margin-bottom: 0.1rem !important;  /* 上下を極限まで詰めてコンパクトに */
+}
+
+/* 3段組カードのグリッドレイアウト */
+.card-column-3 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+/* カード単体のデザイン */
+.card-column-3 > div,
+.card-column-3 > a {
+  display: block;
+  padding: 1rem 1.2rem !important;
+  background-color: var(--zs-card-background, #ffffff);
+  border: 1px solid var(--zs-border-color, #e0e0e0);
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+  text-decoration: none !important;
+  color: inherit !important;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* ホバー時のエフェクト */
+.card-column-3 > div:hover,
+.card-column-3 > a:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+/* カード内のタイトル */
+.card-column-3 h3,
+.card-column-3 strong.card-title {
+  display: block;
+  font-size: 0.8rem !important;
+  font-weight: 700 !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  color: var(--zs-heading-color, #1a1a1a);
+}
+
+/* カード内の本文 */
+.card-column-3 p {
+  margin-top: 0.1rem !important;
+  margin-bottom: 0.1rem !important;
+}
+
+/* 画面が狭い場合は1列に折り返す */
+@media (max-width: 768px) {
+  .card-column-3 {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Zensical：ボックス（アドモニション）内の文字サイズを地の文と完全に同期させる */
+.zs-admonition__content,
+.zs-admonition__content p,
+.zs-admonition__content ul,
+.zs-admonition__content li,
+.zs-admonition dl,
+.zs-admonition dt,
+.zs-admonition dd {
+  font-size: 1rem !important;        /* 地の文（通常の文字）と同じ 100% の大きさに強制固定 */
+  line-height: 1.7 !important;      /* 行間も地の文と同じに整える */
+}
+
+/* ボックス内のリスト（箇条書き）の文字サイズも完全に同期 */
+.zs-admonition__content ul li,
+.zs-admonition__content ol li {
+  font-size: 1.5rem !important;
+}
+
+/* ついでにボックスのタイトル（教科書・参考書）も、地の文より少しだけ存在感を出す */
+.zs-admonition__title,
+.zs-admonition__summary {
+  font-size: 1.1rem !important;      /* 地の文よりほんの少しだけ大きくして見出しらしく */
+  font-weight: bold !important;
+}
+
+/* クラス名を特定せず、[class*="admonition"]（名前にadmonitionが含まれる要素）の中身をすべて強制変更 */
+[class*="admonition"] *,
+[class*="admonition"] li,
+[class*="admonition"] p {
+  font-size: 0.75rem !important;  /* 変わったことがハッキリわかるように少し大きめに設定 */
+  line-height: 1.6 !important;
+}
+
+/* タイトル部分もまとめて強制上書き */
+[class*="admonition-title"] *,
+[class*="admonition__title"] * {
+  font-size: 0.75rem !important;
+  font-weight: bold !important;
+}

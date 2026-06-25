@@ -1,10 +1,10 @@
 ---
-title: "過去のニュース / Past News"
+title: "過去のお知らせ / Past News"
 permalink: /news/
 toc: true
 ---
 
-# 過去のニュース / Past News
+# 過去のお知らせ / Past News
 
 ## 2026
 

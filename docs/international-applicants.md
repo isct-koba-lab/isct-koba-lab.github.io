@@ -5,7 +5,7 @@ toc: true
 ---
 
 
-# For International Applicants
+# For Prospective International Applicants
 
 
 Please note that we only consider applicants who have a solid mathematical background and have secured financial support (e.g., scholarships or funding from your home country). We kindly ask that you contact us only if both conditions are satisfied.
@@ -32,7 +32,7 @@ Computational Optimization and Applications, 75 (2020), 493--513.
 **Stochastic gradient descent for Bézier simplex representation of Pareto set in multi-objective optimization**.  
 Proceedings of the 28th International Conference on Artificial Intelligence and Statistics, (2025).  
 
-### Algorithmic recourse
+### Algorithmic Recourse
 1. K. Kanamori, K. Kobayashi, and T. Takagi:   
 **Learning gradient boosted decision trees with algorithmic recourse**.   
 Proceedings of the 39th Annual Conference on Neural Information Processing Systems, (2025).       

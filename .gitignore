@@ -1,17 +1,5 @@
-*.gem
-.bundle
-.sass-cache
-_site
-Gemfile.lock
-
-# npm
-node_modules
+# Zensical
+site/
 
 # Mac OS X
 .DS_Store
-
- # Jekyll
- _site/
- .sass-cache/
- .jekyll-cache/
- .jekyll-metadata

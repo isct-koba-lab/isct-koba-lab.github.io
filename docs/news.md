@@ -1,5 +1,5 @@
 ---
-title: "News"
+title: "過去のニュース / Past News"
 permalink: /news/
 toc: true
 ---

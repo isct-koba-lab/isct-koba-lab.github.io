@@ -20,7 +20,7 @@ If you would like to contact us about joining Kobayashi Lab, please follow the s
     -  Your research proposal (PDF),
     -  Your CV, transcripts, and English proficiency test scores (PDF).
 
-!!! warning " We may not reply to emails that do not adhere to these guidelines, appear to be AI-generated, or come from applicants whose backgrounds and research interests do not align with our current work."
+!!! warning " We may not reply to emails that do not adhere to these guidelines, contain AI-generated research proposals, or come from applicants whose backgrounds and research interests do not align with our current work."
 
 !!! warning " We do not accept research students under any circumstances."
 

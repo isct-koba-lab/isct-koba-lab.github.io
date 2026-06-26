@@ -11,7 +11,7 @@ Please note that we consider only applicants with a solid background in mathemat
 If you would like to contact us about joining Kobayashi Lab, please follow the steps below:
 
 1. Read some of the selected papers listed below.
-2. Write a research proposal based on your reading and your own research interests.
+2. Write a research proposal based on your reading and your own thoughts (not AI-generated).
      - Master's applicants: at least 2 pages
      - PhD applicants: at least 4 pages
 3. Send an email to Prof.  Kobayashi with the subject line "Prospective Student – [Your Name]", including the following:
@@ -19,7 +19,7 @@ If you would like to contact us about joining Kobayashi Lab, please follow the s
     -  Your research proposal (PDF),
     -  Your CV, transcripts, and English proficiency test scores (PDF).
 
-!!! warning " We may not reply to emails that do not adhere to these guidelines, contain AI-generated research proposals, or come from applicants whose backgrounds and research interests do not align with our current work."
+!!! warning " We may not reply to emails that do not adhere to these guidelines, contain research proposals that appear to be AI-generated, or come from applicants whose backgrounds and research interests do not align with our current work."
 
 !!! warning " We do not accept research students under any circumstances."
 

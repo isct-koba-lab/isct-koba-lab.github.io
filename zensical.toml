@@ -34,7 +34,7 @@ site_url = "https://isct-koba-lab.github.io/"
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
 copyright = """
-copyright = "Copyright &copy; Kobayashi Laboratory"
+copyright = "&copy 2024–2026 Kobayashi Laboratory. All rights reserved."
 """
 
 # Zensical supports both implicit navigation and explicitly defined navigation.

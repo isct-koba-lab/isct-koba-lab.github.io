@@ -8,7 +8,7 @@ toc: true
 # For Prospective International Applicants
 
 Please note that we consider only applicants with a solid background in mathematical optimization and secured financial support (e.g., scholarships or funding from your home country). 
-If you satisfy the above conditions are interested in our lab, please follow the steps below to contact Kobayashi: 
+If you satisfy the above conditions and are interested in our lab, please follow the steps below to contact Kobayashi: 
 
 1. Read some of the selected papers listed below.
 2. Write a research proposal based on your reading and your own thoughts (not AI-generated).

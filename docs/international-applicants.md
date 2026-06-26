@@ -7,15 +7,14 @@ toc: true
 
 # For Prospective International Applicants
 
-
-Please note that we only consider applicants who have a solid mathematical background and have secured financial support (e.g., scholarships or funding from your home country). We kindly ask that you contact us only if both conditions are satisfied.
+Please note that we consider only applicants with a solid background in mathematical optimization and secured financial support (e.g., scholarships or funding from their home country).
 If you would like to contact us about joining Kobayashi Lab, please follow the steps below:
 
 1. Read some of the selected papers listed below.
 2. Write a research proposal based on your reading and your own research interests.
      - Master's applicants: at least 2 pages
      - PhD applicants: at least 4 pages
-3. Send your research proposal to Prof.  Kobayashi with the subject line "Prospective Student – [Your Name]", including the following:
+3. Send an email to Prof.  Kobayashi with the subject line "Prospective Student – [Your Name]", including the following:
     -  Which program you are applying for (Master's or PhD) and the intended start year,
     -  Your research proposal (PDF),
     -  Your CV, transcripts, and English proficiency test scores (PDF).

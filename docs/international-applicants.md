@@ -7,8 +7,8 @@ toc: true
 
 # For Prospective International Applicants
 
-Please note that we consider only applicants with a solid background in mathematical optimization and secured financial support (e.g., scholarships or funding from their home country).
-If you would like to contact us about joining Kobayashi Lab, please follow the steps below:
+Please note that we consider only applicants with a solid background in mathematical optimization and secured financial support (e.g., scholarships or funding from their home country). 
+If you are interested and satisfy the above conditions, please follow the steps below to contact Kobayashi: 
 
 1. Read some of the selected papers listed below.
 2. Write a research proposal based on your reading and your own thoughts (not AI-generated).

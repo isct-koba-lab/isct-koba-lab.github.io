@@ -20,7 +20,7 @@ If you satisfy the above conditions are interested in our lab, please follow the
     -  Your CV, transcripts, and English proficiency test scores (PDF).
     - The number of papers listed under Selected Papers on this page (please write this at the very beginning of your email body).
 
-!!! warning " Emails that do not follow these guidelines, contain AI-generated proposals, or come from applicants whose interests do not align with ours will be ignored."
+!!! warning " We do not respond to emails that do not follow these guidelines, contain AI-generated proposals, or come from applicants whose interests do not align with ours."
 
 !!! warning " We do not accept research students under any circumstances."
 

@@ -7,7 +7,7 @@ hide:
 
 小林研は東京科学大学 工学院 経営工学系に所属し，オペレーションズ・リサーチや数理最適化，機械学習などの研究を行っています．このページでは小林研の研究内容や最新のお知らせを掲載しています．
 
-Welcome to Kobayashi Laboratory. Our laboratory is affiliated with Department of Industrial Engineering and Economics in School of Engineering at Institute of Science, Tokyo. Our primary research areas include operations research, mathematical optimization, and machine learning. 
+Welcome to Kobayashi Laboratory. Our laboratory is affiliated with Department of Industrial Engineering and Economics in School of Engineering at Institute of Science Tokyo. Our primary research areas include operations research, mathematical optimization, and machine learning. 
 
 
 --- 

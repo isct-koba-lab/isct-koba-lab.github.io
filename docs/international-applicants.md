@@ -16,11 +16,11 @@ If you would like to contact us about joining Kobayashi Lab, please follow the s
      - Master's applicants: at least 2 pages
      - PhD applicants: at least 4 pages
 3. Send your research proposal to Prof.  Kobayashi with the subject line "Prospective Student – [Your Name]", including the following:
-    -  Which program you are applying for (Master's or PhD) and the intended start year
-    -  Your research proposal (PDF)
-    -  Your CV, transcripts, and English proficiency test scores (PDF)
+    -  Which program you are applying for (Master's or PhD) and the intended start year,
+    -  Your research proposal (PDF),
+    -  Your CV, transcripts, and English proficiency test scores (PDF).
 
-I may not reply to emails that do not adhere to these guidelines, appear to be AI-generated, or come from applicants whose backgrounds and research interests do not align with our current work.
+!!! warning " We may not reply to emails that do not adhere to these guidelines, appear to be AI-generated, or come from applicants whose backgrounds and research interests do not align with our current work."
 
 !!! warning " We do not accept research students under any circumstances."
 

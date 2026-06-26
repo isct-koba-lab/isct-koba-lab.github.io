@@ -45,7 +45,7 @@ toc: true
     数理最適化に関連する 1 冊の専門書を読み進めるゼミです.  毎週 1 人の担当者が本を読み進め, 自分が理解できた内容を板書で発表します. 数学的な言明を 1 文 1 文確かめながら読み進めることを通じて, 研究で必要となる思考力を養います. 最近読んだ本は以下の通りです:
     
     * Yurii Nesterov. Lectures on Convex Optimization, Springer, 2018.
-    *  Michele Conforti, Gérard Cornuéjols, and Giacomo Zambelli. "Integer Programming", Springer, 2014.
+    *  Michele Conforti, Gérard Cornuéjols, and Giacomo Zambelli. Integer Programming, Springer, 2014.
     *  Amir Beck. First-Order Methods in Optimization, Society for Industrial & Applied Mathematics, 2019.
 
 

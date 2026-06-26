@@ -18,6 +18,7 @@ If you would like to contact us about joining Kobayashi Lab, please follow the s
     -  Which program you are applying for (Master's or PhD) and the intended start year,
     -  Your research proposal (PDF),
     -  Your CV, transcripts, and English proficiency test scores (PDF).
+    - The number of papers listed under Selected Papers on this page.
 
 !!! warning " We may not reply to emails that do not adhere to these guidelines, contain research proposals that appear to be AI-generated, or come from applicants whose research interests do not align with our current work."
 

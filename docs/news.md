@@ -12,7 +12,7 @@ toc: true
 
 <div markdown="1">
 **2026-06-25：研究室のウェブページを新しくしました．**  
-内容はそのままに [Zensical](https://zensical.org/) へ移行して色々調整しました． 見やすさが改善されているとよいのですが．
+内容はそのままに [Zensical](https://zensical.org/) へ移行して色々調整しました．見やすさが改善されているとよいのですがいかがでしょうか．
 </div>
 
 <div markdown="1">

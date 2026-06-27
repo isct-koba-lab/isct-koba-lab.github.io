@@ -79,8 +79,4 @@ Welcome to Kobayashi Laboratory. Our laboratory is affiliated with Department of
 新たなメンバーが加入しました. 学生数は前年度の 3 名から今年度は合計 10 名と増え，にぎやかな研究室になりました.
 </div>
 
-<div markdown="1">
-**2026-03-26：学位授与式が行われました．**  
-2026年3月26日に学位授与式が行われ，小林研の学生 3 名が学士課程を卒業しました．おめでとうございます!
-</div>
 </div>

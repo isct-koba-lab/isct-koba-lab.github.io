@@ -12,7 +12,7 @@ toc: true
 
 <div markdown="1">
 **2026-06-27：B4 の長谷が発表しました．**  
-[第111回 「評価のOR」学生発表会2026](https://orsj.org/hyoka/workshop_111)にて B4 の長谷が発表しました．おつかれさまでした．
+[第111回 「評価のOR」学生発表会2026](https://orsj.org/hyoka/workshop_111) にて B4 の長谷が発表しました．おつかれさまでした．
 </div>
 
 <div markdown="1">
@@ -22,7 +22,7 @@ toc: true
 
 <div markdown="1">
 **2026-05-30：M1 の渡辺が発表しました．**  
-[最適化のモデリングとアルゴリズム：未来を担う若手研究者の集い 2026](https://shotaroyagishita.github.io/matcha/)にて M1 の渡辺が発表しました．おつかれさまでした．
+[最適化のモデリングとアルゴリズム：未来を担う若手研究者の集い 2026](https://shotaroyagishita.github.io/matcha/) にて M1 の渡辺が発表しました．おつかれさまでした．
 </div>
 
 <div markdown="1">

@@ -19,8 +19,8 @@ Edit `_data/news.yml` and push. GitHub Actions will automatically regenerate `do
 
 ## Development
 
-\```bash
+```bash
 pip install zensical jinja2 pyyaml
 python generate.py
 zensical build --clean
-\```
+```

@@ -307,7 +307,7 @@ toggle.name = "Switch to light mode"
 # The "extra" section contains miscellaneous settings.
 # ----------------------------------------------------------------------------
 [[project.extra.social]]
-icon = "fontawesome/classic/link"
+icon = "fontawesome/link"
 link = "https://kenkoba2119.github.io/"
 name = "Ken Kobayashi"
 

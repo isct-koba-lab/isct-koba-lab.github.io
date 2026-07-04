@@ -8,7 +8,7 @@ toc: true
 # 学生募集 / Join Us
 
 
-!!! info "Prospective International Students"
+!!! info "For Prospective International Students"
     This page is primarily intended for prospective students from Japan. If you are interested in joining Kobayashi Lab from abroad, please visit [this page](international-applicants) for international applicants.
  
 ## 活動方針と期待する学生像

@@ -20,11 +20,6 @@
 }
 
 
-.md-header {
-  background-color: #3f51b5;
-  color: #ffffff;
-}
-
 /* ヘッダーのカラーモード（ダークモード）切り替えボタンを非表示にする */
 .md-header__option {
   display: none !important;

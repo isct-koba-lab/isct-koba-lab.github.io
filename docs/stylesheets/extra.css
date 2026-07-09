@@ -1,3 +1,4 @@
+
 /* 本文全体の行間を調整する */
 .md-typeset {
   line-height: 1.7; /* デフォルトより少し広め（1.6〜1.8が読みやすいです） */
@@ -18,6 +19,11 @@
   --md-default-fg-color--bold: #1e3d59; /* 👈 ここに好きな見出しの色（HEXコードなど） */
 }
 
+
+.md-header {
+  background-color: #3f51b5;
+  color: #ffffff;
+}
 
 /* ヘッダーのカラーモード（ダークモード）切り替えボタンを非表示にする */
 .md-header__option {

@@ -76,7 +76,6 @@ extra_css = ["stylesheets/extra.css"]
 # Section for configuring theme options
 # ----------------------------------------------------------------------------
 [project.theme]
-palette.primary = "indigo"
 
 # change this to "classic" to use the traditional Material for MkDocs look.
 #variant = "classic"
@@ -295,7 +294,7 @@ logo = "assets/logo.png"
 # ----------------------------------------------------------------------------
 [[project.theme.palette]]
 scheme = "default"
-palette.primary = "blue"
+primary = "indigo"
 toggle.icon = "lucide/sun"
 toggle.name = "Switch to dark mode"
 

@@ -22,6 +22,7 @@ toc: true
 --- 
 
 ## 口頭発表 / Presentations
+- Hinata Moriyama, Jingqi Wu, Hayato Watanabe, Hayato Kawata, Daito Ochi, Shuto Kanai, Daichi Yokota, Ryohei Daniel Niklai, Ken Kobayashi, Kazuhide Nakata: Prediction Performance-based Grouping for Bubble-based Federated Learning in Retail Demand Forecasting. The 24th Conference of the International Federation of Operational Research Societies, July 14, 2026.
 - ⻑⾕輝, 横⽥⼤智, 李基好, ⼩林健: 通学時荷物最⼩化のための時間割最適化. 第 111 回  評価のOR 学生発表会 2026, 2026 年 6 月 27 日.
 - 渡辺隼人, 佐藤貴海, 中田和秀, 小林健: 錐計画問題を用いたTransformer のロバスト性検証. 最適化のモデリングとアルゴリズム：未来を担う若手研究者の集い 2026, 2026 年 5 月30 日.
 

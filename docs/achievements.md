@@ -6,9 +6,8 @@ toc: true
 
 
 # 小林研の研究成果 / Achievements
-このページでは，小林研の学生（副指導の学生も含む）による研究成果をまとめています．
-なお学術雑誌や学会の予稿集などで公表された成果については，小林個人ページの[研究成果](https://kenkoba2119.github.io/publications.html)に掲載しています．
-ここでは主に学生たちの学位論文･口頭発表･受賞の成果を掲載しています．
+このページでは，小林研の学生（副指導の学生も含む）による研究成果として，学生の学位論文･口頭発表･受賞の成果を掲載しています．
+学術雑誌や学会の予稿集などで公表された成果については，小林個人ページの[研究成果](https://kenkoba2119.github.io/publications.html)をご覧ください．
 
 --- 
 
@@ -22,10 +21,10 @@ toc: true
 --- 
 
 ## 口頭発表 / Presentations
-- Daichi Yokota, Hikaru Hase, Kiho Lee, and Ken Kobayashi: Elementary School Timetable Optimization for Reducing Schoolbag Weight. The 17th Multidisciplinary International Student Workshop, August 4, 2026.
-- Hinata Moriyama, Jingqi Wu, Hayato Watanabe, Hayato Kawata, Daito Ochi, Shuto Kanai, Daichi Yokota, Ryohei Daniel Niklai, Ken Kobayashi, and Kazuhide Nakata: Prediction Performance-based Grouping for Bubble-based Federated Learning in Retail Demand Forecasting. The 24th Conference of the International Federation of Operational Research Societies, July 14, 2026.
-- ⻑⾕輝, 横⽥⼤智, 李基好, ⼩林健: 通学時荷物最⼩化のための時間割最適化. 第 111 回  評価のOR 学生発表会 2026, 2026 年 6 月 27 日.
-- 渡辺隼人, 佐藤貴海, 中田和秀, 小林健: 錐計画問題を用いたTransformer のロバスト性検証. 最適化のモデリングとアルゴリズム：未来を担う若手研究者の集い 2026, 2026 年 5 月30 日.
+- Daichi Yokota, Hikaru Hase, Kiho Lee, and Ken Kobayashi: Elementary school timetable optimization for reducing schoolbag weight. The 17th Multidisciplinary International Student Workshop, Institute of Science Tokyo, August 4, 2026.
+- Hinata Moriyama, Jingqi Wu, Hayato Watanabe, Hayato Kawata, Daito Ochi, Shuto Kanai, Daichi Yokota, Ryohei Daniel Niklai, Ken Kobayashi, and Kazuhide Nakata: Prediction performance-based grouping for bubble-based federated Learning in retail demand forecasting. The 24th Conference of the International Federation of Operational Research Societies, The University of Vienna, July 14, 2026.
+- ⻑⾕輝, 横⽥⼤智, 李基好, ⼩林健: 通学時荷物最⼩化のための時間割最適化. 第 111 回  評価のOR 学生発表会 2026, 早稲田大学, 2026 年 6 月 27 日.
+- 渡辺隼人, 佐藤貴海, 中田和秀, 小林健: 錐計画問題を用いたTransformer のロバスト性検証. 最適化のモデリングとアルゴリズム：未来を担う若手研究者の集い 2026, 筑波大学, 2026 年 5 月30 日.
 
 --- 
 ##  受賞 / Awards

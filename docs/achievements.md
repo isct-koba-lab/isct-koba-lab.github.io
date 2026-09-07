@@ -27,11 +27,12 @@ toc: true
 1. Kosuke Iguchi and Ren Kishimoto: Adaptive doubly robust off-policy evaluation for ranking policies under diverse user behavior.  RecSys 2026 Workshop on Causality, Counterfactuals & Sequential Decision-Making (Consequences '26), (2026), accepted.
 
 ## 口頭発表 / Presentations
-- 渡辺隼人, 佐藤貴海, 中田和秀, 小林健: 二部双線形制約に対する線形緩和の半正定値行列補完可能性. 連続最適化および関連分野に関する夏季学校 2026, 統計数理研究所, 2026 年 9 月 1 日.
-- Daichi Yokota, Hikaru Hase, Kiho Lee, and Ken Kobayashi: Elementary school timetable optimization for reducing schoolbag weight. The 17th Multidisciplinary International Student Workshop, Institute of Science Tokyo, August 4, 2026.
-- Hinata Moriyama, Jingqi Wu, Hayato Watanabe, Hayato Kawata, Daito Ochi, Shuto Kanai, Daichi Yokota, Ryohei Daniel Niklai, Ken Kobayashi, and Kazuhide Nakata: Prediction performance-based grouping for bubble-based federated Learning in retail demand forecasting. The 24th Conference of the International Federation of Operational Research Societies, University of Vienna, July 14, 2026.
-- ⻑⾕輝, 横⽥⼤智, 李基好, ⼩林健: 通学時荷物最⼩化のための時間割最適化. 第 111 回  評価のOR 学生発表会 2026, 早稲田大学, 2026 年 6 月 27 日.
-- 渡辺隼人, 佐藤貴海, 中田和秀, 小林健: 錐計画問題を用いたTransformer のロバスト性検証. 最適化のモデリングとアルゴリズム：未来を担う若手研究者の集い 2026, 筑波大学, 2026 年 5 月30 日.
+1. Hinata Moriyama, Ken Kobayashi, Kazuma Kawai, Yutaro Ito, Noriaki Ikemoto, and Kazuhide Nakata: Electric vehicle routing problem with time-window and capacitated charging station constraints. International Conference on Operations Research 2026, University of Passau, September 3, 2026.
+1. 渡辺隼人, 佐藤貴海, 中田和秀, 小林健: 二部双線形制約に対する線形緩和の半正定値行列補完可能性. 連続最適化および関連分野に関する夏季学校 2026, 統計数理研究所, 2026 年 9 月 1 日.
+1. Daichi Yokota, Hikaru Hase, Kiho Lee, and Ken Kobayashi: Elementary school timetable optimization for reducing schoolbag weight. The 17th Multidisciplinary International Student Workshop, Institute of Science Tokyo, August 4, 2026.
+1. Hinata Moriyama, Jingqi Wu, Hayato Watanabe, Hayato Kawata, Daito Ochi, Shuto Kanai, Daichi Yokota, Ryohei Daniel Niklai, Ken Kobayashi, and Kazuhide Nakata: Prediction performance-based grouping for bubble-based federated Learning in retail demand forecasting. The 24th Conference of the International Federation of Operational Research Societies, University of Vienna, July 14, 2026.
+-1.⻑⾕輝, 横⽥⼤智, 李基好, ⼩林健: 通学時荷物最⼩化のための時間割最適化. 第 111 回  評価のOR 学生発表会 2026, 早稲田大学, 2026 年 6 月 27 日.
+1. 渡辺隼人, 佐藤貴海, 中田和秀, 小林健: 錐計画問題を用いたTransformer のロバスト性検証. 最適化のモデリングとアルゴリズム：未来を担う若手研究者の集い 2026, 筑波大学, 2026 年 5 月30 日.
 
 --- 
 ##  受賞 / Awards

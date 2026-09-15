@@ -23,7 +23,7 @@ toc: true
 ## 査読付き論文，査読付き国際会議会議録 / Refereed Papers and Proceedings
 1. Hinata Moriyama, Jingqi Wu, Hayato Watanabe, Daito Ochi, Hayato Kawata, Shuto Kanai, Daichi Yokota, Ryohei Daniel Niklai, Ken Kobayashi and Kazuhide Nakata: Prediction performance-based grouping for bubble-based federated learning in retail demand forecasting. Proceedings of the 23rd Pacific Rim International Conference on Artificial Intelligence (Short Paper), (2026), accepted.  
 
-## 査読付きワークショップ会議録 / Refereed Papers and Proceedings
+## 査読付きワークショップ会議録 / Refereed Workshop Proceedings
 1. Kosuke Iguchi and Ren Kishimoto: Adaptive doubly robust off-policy evaluation for ranking policies under diverse user behavior.  RecSys 2026 Workshop on Causality, Counterfactuals & Sequential Decision-Making (Consequences '26), (2026), accepted.
 
 ## 口頭発表 / Presentations

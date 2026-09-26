@@ -27,6 +27,7 @@ toc: true
 1. Kosuke Iguchi and Ren Kishimoto: Adaptive doubly robust off-policy evaluation for ranking policies under diverse user behavior.  RecSys 2026 Workshop on Causality, Counterfactuals & Sequential Decision-Making (Consequences '26), (2026), accepted.
 
 ## 口頭発表 / Presentations
+1. <u>⻑⾕輝</u>, 横⽥⼤智, 李基好, ⼩林健: 通学時荷物最⼩化のための時間割最適化. 日本教育工学会 2026年秋季全国大会, 札幌市教育文化会館 2026 年 9 月 26 日.
 1. 守山日向, <u>呉景琪</u>, 渡辺隼人, 越智大登, 川田隼, 金井秀斗, ニクライ龍平ダニエル, 横田大智, 小林健, 中田和秀: 売上傾向の違いを考慮したバブル型連合学習による小売需要予測. 日本オペレーションズ・リサーチ学会 2026 年秋季研究発表会, 京都大学, 2026 年 9 月 10 日.
 1. <u>中屋嘉弥</u>, 吉武渓, 吉田開, 吉岡桃香, 吉村光瑛, 山崎公耀, 清武志功, 益山尚大, 小林健, 中田和秀: 商品人気・店舗規模の影響を除いた店舗・商品間の類似度に基づく関係学習. 日本オペレーションズ・リサーチ学会 2026 年秋季研究発表会, 京都大学, 2026 年 9 月 10 日.
 1. <u>Hinata Moriyama</u>, Ken Kobayashi, Kazuma Kawai, Yutaro Ito, Noriaki Ikemoto, and Kazuhide Nakata: Electric vehicle routing problem with time-window and capacitated charging station constraints. International Conference on Operations Research 2026, University of Passau, September 3, 2026.

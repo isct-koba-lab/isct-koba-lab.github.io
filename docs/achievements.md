@@ -7,7 +7,7 @@ toc: true
 
 # 小林研の研究成果 / Achievements
 このページでは，小林研の学生（副指導の学生も含む）による研究成果を掲載しています (2026年以降)．
-学術雑誌や学会の予稿集などで公表された 2025 年以前の成果については，小林個人のページ ([研究成果](https://kenkoba2119.github.io/publications.html)) をご覧ください．
+小林個人のページ ([研究成果](https://kenkoba2119.github.io/publications)) もあわせてご覧ください．
 
 --- 
 

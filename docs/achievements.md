@@ -25,7 +25,11 @@ toc: true
 1. Hinata Moriyama, Jingqi Wu, Hayato Watanabe, Daito Ochi, Hayato Kawata, Shuto Kanai, Daichi Yokota, Ryohei Daniel Niklai, Ken Kobayashi and Kazuhide Nakata: Prediction performance-based grouping for bubble-based federated learning in retail demand forecasting. Proceedings of the 23rd Pacific Rim International Conference on Artificial Intelligence (Short Paper), (2026), accepted.  
 
 ## 査読付きワークショップ会議録 / Refereed Workshop Proceedings
-1. Kosuke Iguchi and Ren Kishimoto: Adaptive doubly robust off-policy evaluation for ranking policies under diverse user behavior.  RecSys 2026 Workshop on Causality, Counterfactuals & Sequential Decision-Making (Consequences '26), (2026), accepted.
+1. Kosuke Iguchi and Ren Kishimoto: Adaptive doubly robust off-policy evaluation for ranking policies under diverse user behavior.  RecSys 2026 Workshop on Causality, Counterfactuals & Sequential Decision-Making (Consequences '26), (2026), accepted. 
+
+## プレプリント / Preprints
+1. Hayato Watanabe, Takami Sato, Kazuhide Nakata and Ken Kobayashi: Forest characterization of when SDP-RLT strengthens RLT for bilinear terms. arXiv preprint arXiv:2610.27727, (2026).
+
 
 ## 口頭発表 / Presentations
 1. <u>⻑⾕輝</u>, 横⽥⼤智, 李基好, ⼩林健: 通学時荷物最⼩化のための時間割最適化. 日本教育工学会 2026年秋季全国大会, 札幌市教育文化会館 2026 年 9 月 26 日.

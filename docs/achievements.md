@@ -21,6 +21,7 @@ toc: true
 --- 
 
 ## 査読付き論文，査読付き国際会議会議録 / Refereed Papers and Proceedings
+1. Yoshimi Nakaya, Kei Yoshitake, Kai Yoshida, Momoka Yoshioka, Koei Yoshimura, Koyo Yamazaki, Shiko Kiyotake, Shota Masuyama, Ken Kobayashi and Kazuhide Nakata: Relational learning between stores and products free from the effects of product popularity and store scale in retail chains. Proceedings of the 2026 IEEE International Conference on Big Data (Regular Paper), (2026), accepted.
 1. Hinata Moriyama, Jingqi Wu, Hayato Watanabe, Daito Ochi, Hayato Kawata, Shuto Kanai, Daichi Yokota, Ryohei Daniel Niklai, Ken Kobayashi and Kazuhide Nakata: Prediction performance-based grouping for bubble-based federated learning in retail demand forecasting. Proceedings of the 23rd Pacific Rim International Conference on Artificial Intelligence (Short Paper), (2026), accepted.  
 
 ## 査読付きワークショップ会議録 / Refereed Workshop Proceedings

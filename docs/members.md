@@ -7,12 +7,12 @@ title: 小林研のひとびと / Members
     -  個人のページは[こちら](https://kenkoba2119.github.io/)
 ## 学生 / Students
 ### 大学院生 / Graduate Students
-- 井口皓介  (M1)
-- 妹尾勇利  (M1) 
-- ニクライ龍平ダニエル (M1) 
-- 村田友喜  (M1)
-- 吉村光瑛   (M1)
-- 渡辺隼人 (M1)
+- 井口皓介 
+- 妹尾勇利  
+- ニクライ龍平ダニエル 
+- 村田友喜  
+- 吉村光瑛  
+- 渡辺隼人 
 
 ### 学部生 / Undergraduate Students
 - 安藤晃大

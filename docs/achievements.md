@@ -24,8 +24,8 @@ toc: true
 1. Yoshimi Nakaya, Kei Yoshitake, Kai Yoshida, Momoka Yoshioka, Koei Yoshimura, Koyo Yamazaki, Shiko Kiyotake, Shota Masuyama, Ken Kobayashi and Kazuhide Nakata: Relational learning between stores and products free from the effects of product popularity and store scale in retail chains. Proceedings of the 2026 IEEE International Conference on Big Data (Regular Paper), (2026), accepted.
 1. Hinata Moriyama, Jingqi Wu, Hayato Watanabe, Daito Ochi, Hayato Kawata, Shuto Kanai, Daichi Yokota, Ryohei Daniel Niklai, Ken Kobayashi and Kazuhide Nakata: Prediction performance-based grouping for bubble-based federated learning in retail demand forecasting. Proceedings of the 23rd Pacific Rim International Conference on Artificial Intelligence (Short Paper), (2026), accepted.  
 
-## 査読付きワークショップ会議録 / Refereed Workshop Proceedings
-1. Kosuke Iguchi and Ren Kishimoto: Adaptive doubly robust off-policy evaluation for ranking policies under diverse user behavior.  RecSys 2026 Workshop on Causality, Counterfactuals & Sequential Decision-Making (Consequences '26), (2026), accepted. 
+## 査読付きワークショップ論文・発表 / Refereed Workshop Papers and Presentations
+1. Kosuke Iguchi and Ren Kishimoto: Adaptive doubly robust off-policy evaluation for ranking policies under diverse user behavior. RecSys 2026 Workshop on Causality, Counterfactuals & Sequential Decision-Making (Consequences '26), (2026), non-archival, Available at arXiv:2608.29600.
 
 ## プレプリント / Preprints
 1. Hayato Watanabe, Takami Sato, Kazuhide Nakata and Ken Kobayashi: Forest characterization of when SDP-RLT strengthens RLT for bilinear terms. arXiv preprint arXiv:2610.27727, (2026).

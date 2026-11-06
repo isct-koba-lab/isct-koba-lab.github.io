@@ -28,6 +28,7 @@ toc: true
 1. Kosuke Iguchi and Ren Kishimoto: Adaptive doubly robust off-policy evaluation for ranking policies under diverse user behavior. RecSys 2026 Workshop on Causality, Counterfactuals & Sequential Decision-Making (Consequences '26), (2026), non-archival, Available at arXiv:2608.29600.
 
 ## プレプリント / Preprints
+1. Yukina Nakagawa, Takami Sato, Ken Kobayashi, and Kazuhide Nakata: Robustness verification against adversarial patch attacks via group-lasso semidefinite relaxation. arXiv preprint arXiv:2611.04939, (2026).
 1. Hayato Watanabe, Takami Sato, Kazuhide Nakata and Ken Kobayashi: Forest characterization of when SDP-RLT strengthens RLT for bilinear terms. arXiv preprint arXiv:2610.27727, (2026).
 
 
